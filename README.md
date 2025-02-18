@@ -31,7 +31,6 @@
     <div class="container mx-auto flex justify-center">
          <div class=" mt-10 p-6">
             <h2 class="text-2xl font-bold text-gray-900">Build your own WEB presence:</h2>
-        
             <div class="bg-white p-6 mt-6 rounded-lg shadow-xl border-gray-800 w-80 grid grid-cols-2 box flex items-center">
                 <div>
                     <h3 class="text-3xl font-bold text-gray-800">1</h3>
